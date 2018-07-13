@@ -2,7 +2,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年 07月 12日 星期四 19:06:00 CST
+2018年 07月 13日 星期五 11:29:13 CST
 ---
 > 是谁COMMIT
 
@@ -27,12 +27,8 @@ https://github.com/visualDust/WikiMediaURL.git
   （使用 "git add <文件>..." 更新要提交的内容）
   （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
+	修改：     GZTWigets/TestShot.png
 	修改：     README.md
-
-未跟踪的文件:
-  （使用 "git add <文件>..." 以包含要提交的内容）
-
-	YourStudyLife/
 
 修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
