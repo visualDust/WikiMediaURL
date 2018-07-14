@@ -2,7 +2,7 @@
 # 最近一次COMMIT
 
 COMMIT的时间
-2018年07月14日 20:32:26
+2018年 07月 15日 星期日 00:30:44 CST
 ---
 > 是谁COMMIT
 
@@ -20,27 +20,31 @@ https://github.com/visualDust/WikiMediaURL.git
 ---
 > COMMIT的细节
 
-On branch master
-Your branch is up to date with 'origin/master'.
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
+尚未暂存以备提交的变更：
+  （使用 "git add <文件>..." 更新要提交的内容）
+  （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
 
-	modified:   README.md
+	修改：     README.md
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
+未跟踪的文件:
+  （使用 "git add <文件>..." 以包含要提交的内容）
 
-	ScreenDark/
+	FileChangeCheckTool/
 
-no changes added to commit (use "git add" and/or "git commit -a")
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
 ---
 > 当前文件列表
 
 ```
 .:
-commit.sh  GZTWigets  MockFormula  README.md  RM  ScreenDark  YourStudyLife
+commit.sh	     GZTWigets	  README.md  ScreenDark
+FileChangeCheckTool  MockFormula  RM	     YourStudyLife
+
+./FileChangeCheckTool:
+ScreenShot.png
 
 ./GZTWigets:
 TestShot.png
